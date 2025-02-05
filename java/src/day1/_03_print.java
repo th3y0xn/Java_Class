@@ -22,6 +22,15 @@ public class _03_print {
 		// 정수의 나눗셈의 결과는 몫을 나타낸다.
 		System.out.println(10/3.0);
 		// 연산중 실수가 하나라도 있으면 결과값은 실수로 출력된다.
+		
+		System.out.println("");
+		
+		System.out.println("덧셈 결과는 : "+ 3 + 5);
+		// 상수값을 출력할 땐 +를 사용함
+		System.out.println("덧셈 결과는"+(3+5));
+		System.out.println("뺄셈 결과는"+(3-5));
+		System.out.println("곱셈 결과는"+(3*5));
+		
 	}
 
 }
