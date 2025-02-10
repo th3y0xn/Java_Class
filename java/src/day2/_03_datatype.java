@@ -54,3 +54,4 @@ public class _03_datatype {
 			System.out.println("저는 학생이 아닙니다.");
 		}
 	}
+	}
